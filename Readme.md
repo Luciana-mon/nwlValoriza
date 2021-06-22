@@ -1,4 +1,4 @@
-#NLW Together
+# NLW Together
 
 Iniciar o projeto
 ` yarn init -y`
@@ -18,7 +18,7 @@ Instalando o framework express
 Instalando uma dependencia para automatizar a conversão do nosso codigo para uma forma que o node entende JS
 `yarn add ts-node-dev`
 
-##Tipo de metodos disponivel mais utulizado na construção de uma API
+### Tipo de metodos disponivel mais utulizado na construção de uma API
 
 * GET     => Buscar uma informação
 * POST    => Inserir ou Criar uma informação dentro da API
