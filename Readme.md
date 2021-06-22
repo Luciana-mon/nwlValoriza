@@ -1,4 +1,4 @@
-# NLW Together
+# NLW 06 Together
 
 Iniciar o projeto
 ` yarn init -y`
